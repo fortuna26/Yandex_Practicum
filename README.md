@@ -1,2 +1,2 @@
 # Yandex_Practicum
-Some student's projects during learning in  Yandex Practicum
+В репозитории хранятся некоторые учебные проекты с курса обучения "Специалист по Data Science" в Яндекс Практикуме.
