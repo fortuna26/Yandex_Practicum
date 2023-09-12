@@ -10,3 +10,4 @@
 | 5 | [taxi](https://github.com/fortuna26/Yandex_Practicum/tree/main/taxi) | Построение модели для прогнозирования заказов такси на следующий час | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, визуализация данных |
 | 6 | [toxic_comments](https://github.com/fortuna26/Yandex_Practicum/tree/main/toxic_comments) | Построение модели для нового сервиса интернет-магазина для классификации комментариев на позитивные и негативные | Python, Pandas, Seaborn, Matplotlib, Scikit-learn, NLTK, LightGBM |
 | 7 | [users_behaviour](https://github.com/fortuna26/Yandex_Practicum/tree/main/users_behavior) | Построение модели для рекомендации тарифа клиенту компании-оператору сотовой связи | Python, Pandas, NumPy, Seaborn, Scikit-learn |
+| 8 |  | Разработка модели для прогнозирования температуры стали | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost |
