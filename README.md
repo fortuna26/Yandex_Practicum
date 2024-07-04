@@ -3,7 +3,7 @@
 
 | № | Наименование проекта | Описание проекта | Навыки и умения |
 |:-:|:--------------------|:-----------------|:----------------|
-| 1 | [Games](https://github.com/fortuna26/Yandex_Practicum/tree/main/Games)| Прогнозирование продаж компьютерных игр в интернет-магазине | Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, описательная статистика, проверка статистических гипотез, визуализация данных |
+| 1 | [games](https://github.com/fortuna26/Yandex_Practicum/tree/main/Games)| Прогнозирование продаж компьютерных игр в интернет-магазине | Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn, описательная статистика, проверка статистических гипотез, визуализация данных |
 | 2 | [churn](https://github.com/fortuna26/Yandex_Practicum/tree/main/churn) | Построение модели для прогнозирования ухода клиента из банка | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn |
 | 3 | [computer_vision](https://github.com/fortuna26/Yandex_Practicum/tree/main/computer_vision) | Построение модели, которая по фотографии определит приблизительный возраст человека | Python, Pandas, NumPy, Matplotlib, TensorFlow |
 | 4 | [final_project](https://github.com/fortuna26/Yandex_Practicum/tree/main/final_project) | Разработка модели для прогнозирования температуры стали | Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, LightGBM, CatBoost |
